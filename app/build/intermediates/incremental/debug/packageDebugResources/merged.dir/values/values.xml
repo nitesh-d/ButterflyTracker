@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nohar Wildlife</string>
+    <style name="Theme.ButterflyTracker" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
